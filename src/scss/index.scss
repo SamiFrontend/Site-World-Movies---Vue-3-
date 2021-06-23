@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+@import './abstract/variable.scss'; 
+@import './abstract/mixin.scss'; 
+
+* {
+    margin: 0 ; 
+    padding: 0 ;
+    box-sizing: border-box ;
+}
+
+
+html , body {
+    font-family: 'Poppins', sans-serif; 
+    height: 100% ;
+    width: 100% ;
+    @include flex ;
+    background-color : $bgColor ; 
+    color : white ; 
+    flex-direction : column ; 
+    overflow-x: hidden ;
+    main { 
+        flex : 1 ; 
+    } 
+}
+
+
+.container { 
+    max-width : 1300px ;
+    margin : 0 auto ; 
+}
+
+
+/* reset */ 
+
+a {
+    text-decoration : none ; 
+    color : white ; 
+}
+
+
+ul {
+    list-style : none ;
+}
+
+
+// Button 
+
+.btn{
+    border: none ;
+    border-radius: 30px ;
+    padding: .5em 2em ;
+    transition: transform .2s ease ;
+    &:active {
+        transform: scale(.98);
+    }
+}
+
+
+
+.btn-primary{
+    background: $primaryColor ;
+    color: white ;
+    font-weight: 300 ;
+    letter-spacing: .02em ;
+}
+
+
+/* ------------ input ----------- */ 
+
+
+.inp{
+    border: none ;
+    padding: 1.2em 2em ;
+    background-color: $thirdColor ;
+    font-family: inherit ;
+    font-weight: 300 ;
+    font-size: $para ;
+    color: $secondColor ;
+    border-radius: 2px ;
+    outline: none ;
+    &:focus{
+        outline: 1px solid $primaryColor !important ;
+    }
+}
+
+/* ------------ size icon --------------- */ 
+
+.icon-sm{
+    width: 20px ;
+}
+
+
+
+.txt-sm{
+    font-size: $txt-sm ;
+    font-weight: 300 ;
+}
+
+
+
+.logo{
+    display: flex;
+    flex-direction:  column ;
+    font-size: 20px ;
+    .logo-top{
+      font-weight: 500 ;
+      font-size: 1em  ;
+    }
+  
+    .logo-bottom{
+      font-weight: 300 ;
+      letter-spacing: .17em ;
+      font-size: .7em ;
+      color: $txt-second ;
+      margin-top: -.5em ;
+    }
+  }
+
+
+  
+.head-dt {
+    justify-content: space-between;
+    width: 100%;
+    .type-mv {
+      background: #484848;
+      padding: 4px 8px;
+      font-size: 9.5px;
+      border-radius: 2px;
+      letter-spacing: 0.8px;
+      text-transform: capitalize;
+      color: white;
+    }
+  }
+  
+  .body-dt {
+    .desc-mv {
+      font-size: $txt-sm - 1;
+      font-weight: 300;
+      text-align: left;
+      padding: 1.3em 0;
+      line-height: 1.9;
+      letter-spacing: 0.5px;
+      color: $txt-second;
+    }
+  }
+  
+  .footer-dt{
+      margin-top: 1.2rem ;
+  }
+  
+  .footer-dt,
+  .head-dt,
+  .time-mv,
+  .like-mv {
+    display: flex;
+    align-items: center;
+  }
+  
+  .time-mv,
+  .like-mv {
+    margin-right: 16px;
+    .txt-sm {
+      margin-left: 5px;
+    }
+  }
+  
+  .imdb-mv {
+    border-radius: 10px;
+    & > * {
+      padding: 1px 5px;
+      font-weight: 600;
+      width: 50%;
+    }
+    .imdb {
+      background: gold;
+      color: black;
+      border-radius: 10px 0 0 10px;
+      padding-left: 8px ;
+    }
+    .evalution {
+      background-color: white;
+      border-radius: 0 10px 10px 0 ;
+      color: black ;
+    }
+  }
+  
+  .details-mv {
+    padding: 1em 1.5em 1.5em ;
+  }
+
+  

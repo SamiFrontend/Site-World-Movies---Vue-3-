@@ -1,0 +1,835 @@
+{
+    "horror" : [
+        {
+            "id": 12 , 
+            "type": "horror" , 
+            "name" : "Halloween" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 5.6 , 
+            "watch" : 552233 ,
+            "likes" : 1655 ,
+            "time" : 245 , 
+            "img": "horror1.png" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 13 , 
+            "type": "horror" , 
+            "name" : "Night Mare On Elm Street" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 7 , 
+            "likes" : 900 ,
+            "watch" : 46545 ,
+            "time" : 97 , 
+            "img": "horror2.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 14 , 
+             "type": "horror",
+            "name" : "The Evil Dead" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 3.9 , 
+            "likes" : 350 ,
+            "time" : 69 , 
+            "watch" : 98887 ,
+            "img": "horror3.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 15 , 
+            "type": "horror",
+
+            "name" : "Hereditary" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 2.3 , 
+            "likes" : 568 ,
+            "watch" : 23456 ,
+
+            "time" : 186 , 
+            "img": "horror4.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                } 
+            ]
+        } ,
+        {
+            "id": 16 , 
+            "type": "horror",
+
+            "name" : "Luci Firina" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 8.6 , 
+            "likes" : 3502 ,
+            "watch" : 89798 ,
+
+            "time" : 97 , 
+            "img": "horror5.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 17 , 
+            "type": "horror",
+
+            "name" : "Psycho" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 1.2 , 
+            "likes" : 23 ,
+            "watch" : 32434 ,
+
+            "time" : 69 , 
+            "img": "horror6.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } 
+    ] , 
+    "action" : [
+        {
+            "id": 18 , 
+            "type": "action",
+
+            "name" : "Saving Private Ryan" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 5.6 , 
+            "watch" : 552233 ,
+            "likes" : 1655 ,
+            "time" : 245 , 
+            "img": "action1.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 19 , 
+            "type": "action",
+
+            "name" : "Indian and Jones" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 7 , 
+            "likes" : 900 ,
+            "watch" : 23434 ,
+
+            "time" : 97 , 
+            "img": "action2.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 20 , 
+            "type": "action",
+
+            "name" : "No Time To Die" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 7.6 , 
+            "likes" : 568 ,
+            "watch" : 23432 ,
+
+            "time" : 186 , 
+            "img": "action3.png" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                } 
+            ]
+        } ,
+        {
+            "id": 21 , 
+            "type": "action",
+
+            "name" : "Aleins" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 8.6 , 
+            "likes" : 5332 ,
+            "watch" : 5453 ,
+            "time" : 97 , 
+            "img": "action4.png" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 22 , 
+            "type": "action",
+
+            "name" : "Bullitt" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 7.2 , 
+            "likes" : 654 ,
+            "watch" : 65465 ,
+            "time" : 153 , 
+            "img": "action5.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 23 , 
+            "type": "action",
+
+            "name" : "Spectare" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 8.8 , 
+            "likes" : 56465 ,
+            "watch" : 654646 ,
+            "time" : 167 , 
+            "img": "action6.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } 
+    ] , 
+    "drama" : [
+        {
+            "id": 25 , 
+            "type": "drama",
+
+            "name" : "Iteawon Class" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 5.6 , 
+            "watch" : 552233 ,
+            "likes" : 1655 ,
+            "time" : 245 , 
+            "img": "drama1.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 26 , 
+            "type": "drama",
+
+            "name" : "Start Up" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 8.6 , 
+            "likes" : 2342 ,
+            "watch" : 243324 ,
+            "time" : 132 , 
+            "img": "drama2.png" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 27 , 
+            "type": "drama",
+
+            "name" : "Long Khong" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 3.9 , 
+            "likes" : 2334 ,
+            "time" : 74 , 
+            "watch" : 46564 ,
+
+            "img": "drama3.png" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 28 , 
+            "type": "drama",
+
+            "name" : "The Hunt" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 6.5 , 
+            "likes" : 23433 ,
+            "watch" : 46546 ,
+
+            "time" : 186 , 
+            "img": "drama5.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                } 
+            ]
+        } ,
+        {
+            "id": 29 , 
+            "type": "drama",
+
+            "name" : "Licoln" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 8.6 , 
+            "likes" : 3502 ,
+            "watch" : 4548596 ,
+            "time" : 165 , 
+            "img": "drama6.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 30 , 
+            "type": "drama",
+
+            "name" : "MoonLight" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 1.2 , 
+            "likes" : 23 ,
+            "watch" : 234343 ,
+
+            "time" : 123 , 
+            "img": "drama4.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } 
+    ] , 
+    "romance" : [
+        {
+            "id": 32 , 
+            "type": "romance",
+
+            "name" : "cerena" , 
+            "description" : 
+            "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 5.6 , 
+            "watch" : 564656 ,
+            "likes" : 2348 ,
+            "time" : 185 , 
+            "img": "romance1.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 33 , 
+            "type": "romance",
+
+            "name" : "Encounter" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 7 , 
+            "likes" : 6455 ,
+            "watch" : 64689 ,
+            "time" : 97 , 
+            "img": "romance2.jpg" ,
+            "crews" : [
+                {
+                    "name" : "Encounter" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 34 , 
+            "type": "romance",
+
+            "name" : "True Romance" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 5.9 , 
+            "likes" : 654 ,
+            "time" : 160 , 
+            "watch" : 87968 ,
+
+            "img": "romance3.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 35 , 
+            "type": "romance",
+
+            "name" : "Equals" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 5.6 , 
+            "likes" : 465 ,
+            "watch" : 65454 ,
+
+            "time" : 186 , 
+            "img": "romance4.jpg" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                } 
+            ]
+        } ,
+        {
+            "id": 36 , 
+            "type": "romance",
+
+            "name" : "Me Before you" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 9.5 , 
+            "likes" : 54565 ,
+            "watch" : 56687468 ,
+            "time" : 169 , 
+            "img": "romance6.png" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } ,
+        {
+            "id": 37 , 
+            "type": "romance",
+
+            "name" : "A Star is Born" , 
+            "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the", 
+            "imdb" : 1.2 , 
+            "likes" : 23 ,
+            "watch" : 32434 ,
+
+            "time" : 69 , 
+            "img": "romance5.png" ,
+            "crews" : [
+                {
+                    "name" : "John Doe" , 
+                    "img" : "1.png" 
+                }, 
+                {
+                    "name" : "Will Smith" , 
+                    "img" : "2.png" 
+                }, 
+                {
+                    "name" : "Soul Doe" , 
+                    "img" : "3.png" 
+                }, 
+                {
+                    "name" : "Sami Ali" , 
+                    "img" : "4.png" 
+                }, 
+                {
+                    "name" : "Luka Modric" , 
+                    "img" : "5.png" 
+                }
+            ]
+        } 
+    ] 
+}

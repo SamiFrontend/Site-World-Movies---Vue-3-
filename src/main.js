@@ -1,5 +1,21 @@
-import { createApp } from 'vue'
+import { createApp  } from 'vue'
 import App from './App.vue'
-import router from './router'
+import router from './router' ;
+// include scss
+import '@/scss/index.scss' ; 
+import includeComponent from '../helper/globalComponent' ; 
+import filters from '../helper/filters' ; 
+import store from './store' ; 
 
-createApp(App).use(router).mount('#app')
+const app = createApp(App) ;
+
+
+// include our component to global 
+includeComponent( app ) ; 
+
+// include filters 
+app.config.globalProperties.$filters = filters ; 
+
+app.use(store) ; 
+
+app.use(router).mount('#app')
